@@ -20,7 +20,6 @@ namespace SeleniumCSharpNetCore
 
 
         //made some changes here to trigger new build
-        123123
         public static void EnterText(IWebElement webElement, string value) => webElement.SendKeys(value);
 
         public static void Click(IWebElement webElement) => webElement.Click();
