@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vgonugu\\Code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {}
+    "C:\\Users\\vgonugu\\Code\\JenkinsDemo\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vgonugu\\Code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {
+    "C:\\Users\\vgonugu\\Code\\JenkinsDemo\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vgonugu\\Code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\vgonugu\\Code\\JenkinsDemo\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
         "projectName": "SeleniumCSharpNetCore",
-        "projectPath": "C:\\Users\\vgonugu\\Code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
+        "projectPath": "C:\\Users\\vgonugu\\Code\\JenkinsDemo\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
         "packagesPath": "C:\\Users\\vgonugu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vgonugu\\Code\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore\\obj\\",
+        "outputPath": "C:\\Users\\vgonugu\\Code\\JenkinsDemo\\SeleniumCSharpNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vgonugu\\AppData\\Roaming\\NuGet\\NuGet.Config",
