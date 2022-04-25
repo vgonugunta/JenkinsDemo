@@ -18,6 +18,8 @@ namespace SeleniumCSharpNetCore
         //    Driver.FindElement(By.XPath($"//div[@id='{controlName}-dropmenu']//li[text()='{value}']")).Click();
         //}
 
+
+        //made some changes here to trigger new build
         public static void EnterText(IWebElement webElement, string value) => webElement.SendKeys(value);
 
         public static void Click(IWebElement webElement) => webElement.Click();
